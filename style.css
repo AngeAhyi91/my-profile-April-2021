@@ -2,16 +2,10 @@
 body{
 	background-color: white;
 	color: rgb(50,50,50);
-	
 	font-family: 'Nunito', sans-serif;
 	font-size: 18px;	
-
-
-
 	line-height: 1.8	
 }	
-
-
 
 .img-circle{
 	width:200px;
@@ -20,7 +14,6 @@ body{
 	border-radius: 50%;
 	text-align: center;
 }
-
 
 .container{
 	width: 900px;
@@ -47,7 +40,6 @@ body{
     width: 450px;
   }
 }
-
 
 .card-white{
 	margin: 30px auto;
@@ -78,14 +70,10 @@ body{
 	text-align: center;
 }
 
-
-
 .list-inlined{
 	list-style: none;
 	padding-left: 0px;
 }
-
-
 
 .list-icons li{	
 	list-style: none;
@@ -94,21 +82,14 @@ body{
 	display: inline;
 }
 
-
-
 .list-icons i{	
 	font-size: 50px;
 	color: rgb (230,230,230);
 }
 
-
-
 p{
 	width: 80%
 }
-
-
-
 
 a{
 	color: black;
@@ -116,20 +97,15 @@ a{
 	transition: color 0.3s ease;
 }
 
-
-
 a:hover{
 	color: white;
 }
-
-
 
 h1, h2, h3, h4{
 	font-family: 'Nunito', sans-serif;
 	color: black;
 	font-weight: 2000;
 	text-align: center;
-
 }
 
 h5{
@@ -137,7 +113,6 @@ h5{
 	color: black;
 	font-weight: bold;
 	text-align: center;
-
 }
 
 h6{
@@ -145,9 +120,6 @@ h6{
 	color: black;
 	font-weight: 2000;
 }
-
-
-
 
 h1 {
 	font-size: 40px;
@@ -158,18 +130,13 @@ h1 {
 	text-transform: uppercase;
 }
 
-
-
 h2 {
 	font-size: 32px;
 }
 
-
-
 h3 {
 	font-size: 24px;
 }
-
 
 .btn-yellow{
 	background-color: #F1DA30;
@@ -182,7 +149,6 @@ h3 {
 background-color: black;
 color: white;
 }
-
 
 b{
 	font-weight: 5000;
